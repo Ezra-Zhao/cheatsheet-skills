@@ -1,0 +1,18 @@
+{
+ "adobe-free-alternatives-cheatsheet": "72e0111a594b5110739f15a26efb183bb4f89e77a43fce53353306885de1d69b",
+ "curl-cheatsheet": "cc9de53b4541ed4d7e4291783d2ea46a4baaabcbeea99bccdd7b8a718c631b32",
+ "desubscribe-cheatsheet": "ab208e2759b268cb18d375d0c7db903ebac19aab2c173532c56f593a31cf0627",
+ "docker-cheatsheet": "189824564c87fd65593b1749921a63c7be40ccb2fba33a85ac1e6f17f13ac7e3",
+ "ffmpeg-cheatsheet": "d63cfb4ea4693932d591fb39ed2eb84bdc5cac3e5f426d7eab6d0d459a90ade6",
+ "find-xargs-cheatsheet": "51178e7de161fd684b69228179b02346d932715730cb035920d2470b0c439be7",
+ "git-cheatsheet": "ac33cb2b1c917e4dde7099c9b8eed0b0fccb098f5daca259ef3c3d42ab8fcadf",
+ "jq-cheatsheet": "7fc28737155e8fa71ea45861aa7716b502dc592a5a9abf9eae7afebe5a439cf3",
+ "kubectl-cheatsheet": "e00ae129ec9e7204187664e166d11b175f31f42d5d30b2c4a96e2a4cb32939ce",
+ "regex-cheatsheet": "ecfce0b7aa82b3a14fc61a9becf96f58bd4b9fc1eb3da76919af05b0bd78ffcb",
+ "sql-cheatsheet": "7c1b333097cd70cb8c5e4a8f04d24bc87d272b5bd1476651b8644a7a4a64d78e",
+ "ssh-cheatsheet": "d3db249534831f198d1a4cc15c1ece5912d1058f6dfba0582a594a87bdd2b153",
+ "systemd-cheatsheet": "dd349b85846dbb1466ca635c12ff950da55a2998e183573e7a2a9ea1c4d19e7e",
+ "terminal-superpowers-cheatsheet": "fd3e54d8af1604dd05819fd76188e17acec12d7e9543a01b65ffe13e0b4ec82e",
+ "tmux-cheatsheet": "f2f602cb39f847a471860ec0e2d3a00feda1b710fc220641b82973bd26fa2117",
+ "vim-cheatsheet": "dcde44413013db1a37c45d2fe27ca83a4f612705b1de1ffd2f79952ac4e678b5"
+}
