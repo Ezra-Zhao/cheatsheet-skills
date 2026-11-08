@@ -20,6 +20,7 @@ Each skill is one `SKILL.md`: 30 (or so) real commands for one tool, every one o
 | [sql-cheatsheet](skills/sql-cheatsheet/SKILL.md) | SELECT to window functions, across MySQL, PostgreSQL and SQLite | [sql-cheatsheet](https://github.com/Ezra-Zhao/sql-cheatsheet) |
 | [ssh-cheatsheet](skills/ssh-cheatsheet/SKILL.md) | Keys, config, tunnels, ProxyJump, file transfer | [ssh-cheatsheet](https://github.com/Ezra-Zhao/ssh-cheatsheet) |
 | [find-xargs-cheatsheet](skills/find-xargs-cheatsheet/SKILL.md) | Find files by anything, then act on them safely with xargs | [find-xargs-cheatsheet](https://github.com/Ezra-Zhao/find-xargs-cheatsheet) |
+| [awk-cheatsheet](skills/awk-cheatsheet/SKILL.md) | Fields, patterns and one-line recipes: sums, dedupe, group-bys, two-file joins | [awk-cheatsheet](https://github.com/Ezra-Zhao/awk-cheatsheet) |
 | [vim-cheatsheet](skills/vim-cheatsheet/SKILL.md) | Movement, operators, macros, and getting out with your work intact | [vim-cheatsheet](https://github.com/Ezra-Zhao/vim-cheatsheet) |
 | [tmux-cheatsheet](skills/tmux-cheatsheet/SKILL.md) | Sessions, panes, copy mode, work that survives a closed terminal | [tmux-cheatsheet](https://github.com/Ezra-Zhao/tmux-cheatsheet) |
 | [systemd-cheatsheet](skills/systemd-cheatsheet/SKILL.md) | systemctl, unit files, journalctl, timers | [systemd-cheatsheet](https://github.com/Ezra-Zhao/systemd-cheatsheet) |
