@@ -21,6 +21,7 @@ English: [README.md](README.md)
 | [ssh-cheatsheet](skills/ssh-cheatsheet/SKILL.md) | 密钥、配置文件、隧道、ProxyJump、传文件 | [ssh-cheatsheet](https://github.com/Ezra-Zhao/ssh-cheatsheet) |
 | [find-xargs-cheatsheet](skills/find-xargs-cheatsheet/SKILL.md) | 按各种条件找文件，再用 xargs 安全地批量处理 | [find-xargs-cheatsheet](https://github.com/Ezra-Zhao/find-xargs-cheatsheet) |
 | [awk-cheatsheet](skills/awk-cheatsheet/SKILL.md) | 字段、模式与单行配方：求和、去重、分组汇总、双文件 join | [awk-cheatsheet](https://github.com/Ezra-Zhao/awk-cheatsheet) |
+| [grep-cheatsheet](skills/grep-cheatsheet/SKILL.md) | 搜行、搜树、搜日志：递归、正则风味、上下文、退出码、二进制、PCRE | [grep-cheatsheet](https://github.com/Ezra-Zhao/grep-cheatsheet) |
 | [vim-cheatsheet](skills/vim-cheatsheet/SKILL.md) | 移动、操作符、宏，以及带着成果全身而退 | [vim-cheatsheet](https://github.com/Ezra-Zhao/vim-cheatsheet) |
 | [tmux-cheatsheet](skills/tmux-cheatsheet/SKILL.md) | 会话、窗格、复制模式，关了终端活还在 | [tmux-cheatsheet](https://github.com/Ezra-Zhao/tmux-cheatsheet) |
 | [systemd-cheatsheet](skills/systemd-cheatsheet/SKILL.md) | systemctl、unit 文件、journalctl、定时器 | [systemd-cheatsheet](https://github.com/Ezra-Zhao/systemd-cheatsheet) |
